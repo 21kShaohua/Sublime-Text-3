@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"ChineseLocalizations",
+		"ChineseOpenConvert",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSScomb",
+		"Emmet",
+		"GBK Support",
+		"GoTags",
+		"Interactive Data Language (IDL)",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"Tagger Script Syntax",
+		"Tagify",
+		"Terminal",
+		"Trimmer"
+	]
+}

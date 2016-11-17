@@ -1,0 +1,1 @@
+{"platforms": ["*"], "description": "Translation between Traditional Chinese and Simplified Chinese. \u7e41\u7b80\u8f6c\u6362\u3002", "dependencies": [], "url": "https://github.com/rexdf/SublimeChineseConvert", "sublime_text": ">=3000", "version": "1.0.3"}
